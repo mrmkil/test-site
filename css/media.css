@@ -25,6 +25,8 @@
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px) {
+	.back-select {
+		width: 100%;}
 	body {
 	  font-size: 17px;}
 	.post{
