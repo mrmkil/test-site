@@ -1,0 +1,223 @@
+body {
+  font-family: "HelveticaNeueMedium", sans-serif;
+  font-weight: normal;
+  font-size: 20px;
+  min-width: 320px;
+  position: relative;
+  line-height: 1.42857;
+  -webkit-font-smoothing: antialised; 
+  background: #f1f1f1;}
+  
+
+footer{
+	font-family: "HelveticaNeue", sans-serif;}  
+  
+header , button , h1{
+	font-family: "OpenSans", sans-serif;}
+
+#selecter{
+	font-family: "arial", sans-serif;}
+ 
+.hidden {
+  display: none;}
+  display: none;}
+
+  
+
+	
+.main_color_bg{	
+	background:#e1e1e1;}
+
+	
+.main_head {
+	position: relative; 
+	background: #e1e1e1;}
+	
+	.main_head  .container .row{
+	height:100%;
+	margin: auto; 
+	vertical-align: middle;
+	padding-top: 40px;
+	}	
+	.main_head  .container{
+		height: 120px;
+		background:#53545e;}
+	.main_head img{
+		margin: auto; 
+		vertical-align: middle;}
+	.main_head p{
+	margin: auto; 
+	vertical-align: middle;
+		text-align: right;
+		color:#ffffff;}
+	.main_head a{
+		color:#a6a7b0;}
+	
+	.main_head p :hover{
+		color: #ffffff;}
+  
+  
+section .section_content .container{
+	background: #ffffff; }
+	section .section_content .container .row{
+		border-bottom: 2px solid #eaeaea;
+		margin: 0 ;
+		padding: 30px; }
+ 
+
+.post img{
+	width: 100%;}
+.post h1{
+	color: #53545e;
+	text-transform: uppercase;}
+.post p{
+	font-size: 25px;
+	font-weight: 500;
+	color: #bfc0c3;}
+.post button{
+	font-size: 25px;
+	font-weight: 500;
+	background-color: #53545e; 
+    border: none;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+	text-transform: uppercase;}
+	
+	
+
+
+
+	
+	
+
+
+ #posision {
+  background-color:  rgba(0, 0, 0, 0.0);
+   color: #53545e;
+   border: none;
+   height: 50px;
+   padding: 5px; /* If you add too much padding here, the options won't show in IE */
+   width: 106%;
+   
+	font-size: 25px;
+	font-weight: 700;
+
+    text-decoration: none;
+    display: inline-block;
+	position: relative;
+	z-index:10;
+}
+.back-select {
+	width: 60%;
+	margin-top: 30px;
+	background:  #dedede;}
+.styled-select {
+   background: url(../img/select.png) no-repeat 96% 50%;
+   height: 50px;
+   overflow: hidden;
+   width: 100%;
+	position: relative;
+	z-index: 20;
+}
+	
+	
+.posisionses p{
+	margin-top: 0px;}
+.posisionses h2{
+	font-size: 25px;
+	margin-bottom: 0px;}
+.posisionses{
+	letter-spacing: 1px;
+	line-height: 1;
+	display: none;}
+
+
+.main_footer {
+  padding: 0;
+  font-weight: 300; 
+  padding-bottom: 80px;
+  background: #e1e1e1;}
+ .main_footer .social{
+	padding: 30px;
+	background: #f1f1f1;}  
+	
+	.rowbord{
+		content: "";
+		border-bottom: 2px solid #a6a7b0;
+		margin: 0 ;
+		left:0;
+		padding: 30px; }
+	
+	.main_footer .row2{ 
+		font-size: 25px;
+		font-weight: 500;
+		padding: 30px;
+		color: white;
+		background: #53545e;}  
+	.main_footer .row2 ul{ 
+		margin-top: 0px;
+		padding: 0;}
+	.main_footer .row2 ul li{
+		list-style-type: none;}
+	.main_footer .row2 ul li a{ 
+		color: white;
+		text-decoration:none;}
+
+	
+	
+	.main_footer .row3{
+	margin-top: 0;
+	padding: 30px;
+	padding-top: 0;
+	color: #a6a7b0;
+	background: #53545e;} 
+	.main_footer  .row3 a{
+		color: white;
+		text-decoration:none;}
+	
+	.main_footer .right{
+    text-align: right; }
+	
+	.main_footer .social h1{
+	color: #53545e;
+	text-transform: uppercase;
+	display: inline-block;}
+	.main_footer .social_wrap {
+		line-height: 0; 
+	display: inline-block;}
+	.main_footer .social_wrap  a{
+		padding: 15px;
+		background: #e1e1e1;
+		border-radius: 90px;
+		border: 0px solid #e1e1e1;
+		color: #53545e;}
+    .main_footer .social_wrap  {
+      margin: 0; }
+		
+	.main_footer a :hover{
+		color: #a6a7b0;
+		text-decoration:none;}
+		.main_footer ul li a:hover{
+		color: #a6a7b0;
+		text-decoration:none;}
+	.main_footer .row3 p :hover{
+		color: #a6a7b0;
+		text-decoration:none;}
+	
+	
+.social_wrap li {
+  display: inline-block;
+  font-size: 20px;
+  padding: 0 3px; }
+
+section .section_content .container .bordernone{
+	border: none;}
+    
+	
+  
+  
+
+  
